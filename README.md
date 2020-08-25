@@ -1,1 +1,0 @@
-# Forex_Price_Movement
